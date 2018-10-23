@@ -1,5 +1,7 @@
 ### Points: 300
 
+- I didn't complete this challenge during the CTF. 
+
 ### Description:
 
 Provided below is an image of an employee's workstation that was compromised earlier this week.
