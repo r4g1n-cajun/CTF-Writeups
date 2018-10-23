@@ -1,4 +1,4 @@
-## Writeups for the challenges that I was able to complete in the NCSAM Hacktober CTF hosted by the Midwest Cyber Center
+# NCSAM Hacktober CTF Challenge Writeups
 
 This was an awesome CTF and I had a lot of fun doing it. It lasted one week and I worked on it as I had time periodically through out the day and later at night.
 
@@ -8,7 +8,7 @@ Some of the challenge categories I have had no experience in so it was a first f
 - This was my first 'real' CTF that wasn't just basic pentesting against some VMs.
 - Some of the flags I was able to find without completely reversing/decompiling binaries so those won't be very detailed.
 
-### Invite Page
+## Invite Page
 This was the page posted as the CTF. You wen't given the link to the registration page, so there was a challenge before even signing up.
 
 ![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/Initial%20Page.png?token=AlLywJK8GpRetMwoeY-N1zgBZxsvQrFAks5b2MmCwA%3D%3D)
@@ -17,7 +17,7 @@ Scanning the QR code takes you to another page with a message and a GIF:
 
 ![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/secret%20page.png?token=AlLywO4_8n2N1mWkRJOROlbxDQtQWlUMks5b2MnCwA%3D%3D)
 
-### Hacktober CTF:
+## About Hacktober CTF:
 
 Hacktober CTF is a Midwest Cyber Center (MC2) sponsored event for National Cybersecurity Awareness Month. Teams of 4 will compete against one another to test and expand cybersecurity skills and awareness. Participants will experience challenges involving exploitation, databases, web penetration, DFIR, cryptography, programming, scripting, recon, steganography, and more.
 
@@ -58,6 +58,6 @@ Gh0stf4c3 is a hacktivist group known for causing mischief and mayhem. They have
   - Programming
 
 
-### Top 25:
+## Top 25:
 
 ![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Top_25.png?token=AlLywABabdvRx4Cmi5vitUvGV8m6fTU-ks5b2MJmwA%3D%3D)
