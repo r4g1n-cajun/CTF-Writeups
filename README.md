@@ -1,2 +1,2 @@
 # CTF-Writeups
-Writeups from some CTFs and Challenges
+Writeups from CTFs, Challenges and Stuff.
