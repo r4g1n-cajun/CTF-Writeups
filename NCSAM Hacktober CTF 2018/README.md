@@ -72,4 +72,4 @@ Gh0stf4c3 is a hacktivist group known for causing mischief and mayhem. They have
 
 ## Top 25:
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Top_25.png?token=AlLywABabdvRx4Cmi5vitUvGV8m6fTU-ks5b2MJmwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/Top_25.png?token=AlLywH1j6S9HIbtIYHIZIOYrGpXbnwQ2ks5b2NAVwA%3D%3D)
