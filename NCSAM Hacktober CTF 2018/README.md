@@ -15,7 +15,11 @@ This was the page posted as the CTF. You wen't given the link to the registratio
 
 Scanning the QR code takes you to another page with a message and a GIF:
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/secret%20page.png?token=AlLywO4_8n2N1mWkRJOROlbxDQtQWlUMks5b2MnCwA%3D%3D)
+![Alt Text](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/secret_page.gif?token=AlLywOp93fNwCUO-5qW0bL0TvTFKevGhks5b2MxKwA%3D%3D)
+
+It's pretty obvious that the string around the QR code is base64 encoded, decoding it gives us the CTF main page:
+
+
 
 ## About Hacktober CTF:
 
