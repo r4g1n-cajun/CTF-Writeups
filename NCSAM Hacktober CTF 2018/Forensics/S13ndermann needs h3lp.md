@@ -1,6 +1,6 @@
-***Points*** - 100
+### Points: 100
 
-***Description***
+### Description:
 
 The police have tracked one of the Ghostf4c3 members’ locations. They have captured some traffic, but are unsure of what to do with it next. Help stop the Ghostf4c3 crew by assisting the police however they ask.
 
