@@ -8,3 +8,4 @@ Using volatility, submit the image profile as the flag.
 
 ### File:
 
+dump.zip
