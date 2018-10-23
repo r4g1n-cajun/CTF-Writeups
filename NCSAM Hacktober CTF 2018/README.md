@@ -1,4 +1,4 @@
-## Writeups for the challenges that I was able to complete in the NCSAM Hacktober CTF hosted by the Midwest Cyber Center
+## Writeups NCSAM Hacktober CTF hosted by the Midwest Cyber Center
 
 This was an awesome CTF and I had a lot of fun doing it. It lasted one week and I worked on it as I had time periodically through out the day and later at night.
 
