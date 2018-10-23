@@ -3,7 +3,8 @@
 This was an awesome CTF and I had a lot of fun doing it. It lasted one week and I worked on it as I had time periodically through out the day and later at night.
 
 Some of the challenge categories I have had no experience in so it was a first for me and I had to learn as I went along.
-- Competed under name r4g1n_cajun
+- I decided to compete alone
+- 4 person max per team 
 - Came in 17th out of 140 teams.
 - This was my first 'real' CTF that wasn't just basic pentesting against some VMs.
 - Some of the flags I was able to find without completely reversing/decompiling binaries so those won't be very detailed.
