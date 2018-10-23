@@ -11,8 +11,11 @@ Some of the challenge categories I have had no experience in so it was a first f
 ### Invite Page
 This was the page posted as the CTF. You wen't given the link to the registration page, so there was a challenge before even signing up.
 
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/Initial%20Page.png?token=AlLywJK8GpRetMwoeY-N1zgBZxsvQrFAks5b2MmCwA%3D%3D)
 
+Scanning the QR code takes you to another page with a message and a GIF:
 
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/secret%20page.png?token=AlLywO4_8n2N1mWkRJOROlbxDQtQWlUMks5b2MnCwA%3D%3D)
 
 ### Hacktober CTF:
 
