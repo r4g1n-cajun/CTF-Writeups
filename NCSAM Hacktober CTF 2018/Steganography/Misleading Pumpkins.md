@@ -1,5 +1,3 @@
-### Points: 200
-
 ### Description:
 
 Find the flag hidden in the image!

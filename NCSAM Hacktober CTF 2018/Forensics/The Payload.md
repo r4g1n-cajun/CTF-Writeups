@@ -1,5 +1,3 @@
-### Points: 250
-
 ### Description:
 
 ShowMeCorp intercepted a payload we believe was sent by Gh0stf4c3. We can’t make heads or tails of it. Can you help?

@@ -1,5 +1,3 @@
-### Points: 450
-
 ### Description:
 
 Two hackers have been known for stealing money from various corporations and funneling it through cryptocurrency. Security analysts have intercepted the following text file which contains a scary story. They believe that hidden in this file is the information they need to determine where the stolen money was sent to. We think the key might be the name of the scary story.

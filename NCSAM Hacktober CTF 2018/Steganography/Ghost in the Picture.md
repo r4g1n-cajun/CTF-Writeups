@@ -1,5 +1,3 @@
-### Points: 300
-
 ### Description
 
 A young woman named Felicia was abducted from Scheve Park last summer and is still missing. The only clue we have is that her laptop was open to this webpage. Her friends have also told us that she frequently uses long words she find on the internet as her passwords.

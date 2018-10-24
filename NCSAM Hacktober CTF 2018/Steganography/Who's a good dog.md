@@ -1,5 +1,3 @@
-### Points: 300
-
 ### Description
 
 All of them. Give them plenty of room to play.

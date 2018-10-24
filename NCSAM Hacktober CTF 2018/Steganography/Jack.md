@@ -1,5 +1,3 @@
-### Points: 250
-
 ### Description:
 
 The attached image contains a hidden flag. See if you can find a way to extract the hidden flag embedded in this image.

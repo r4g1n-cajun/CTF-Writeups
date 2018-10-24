@@ -1,6 +1,3 @@
-### Points: 100
-
-
 ### Description:
 
 Mascoutah Police Department received an anonymous fax yesterday regarding a domestic altercation that happened in 1960. Merle H. Sweeney was slain in his sleep after a drunken altercation between he and his wife. His wife claimed she had left the house and was staying with her mother in Cahokia at the time, at that time, her mother corroborated her story.
