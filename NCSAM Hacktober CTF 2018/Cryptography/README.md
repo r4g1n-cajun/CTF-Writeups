@@ -1,6 +1,6 @@
 ## Cryptography Challenges
 
-I was able to complete 3 of these during the CTF
+I was able to complete 3 out of 8 of these during the CTF
 
 ### Submited:
 
