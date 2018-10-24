@@ -6,7 +6,7 @@ These challenges were easy to complete and was a nice little break from the actu
 
 Opening developer tools when launching the game you see a GET request for the `db.json` file with a `304` response... so taking a look you can see the categorized breakdown of the game. Since each challenge is finding a specific 'item' then everything needed to complete them all should be right here, which they are (including the flags). Looking at the NPC (Non Playable Character) section we see 'rick' which is the first challenge and have the flag.
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/devtools_rick.png?token=AlLywC2FZOKQjWS3ZUeP7eWlwwt4-voEks5b2gNPwA%3D%3D)
+- ![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/devtools_rick.png?token=AlLywC2FZOKQjWS3ZUeP7eWlwwt4-voEks5b2gNPwA%3D%3D)
 
 But that wouldn't be very fun and a break from beating my brain was nice so I played through.
 
@@ -25,12 +25,24 @@ It took a while to figure out where everything was without using the `db.json` i
 ***Points: 100***
 
 ***Description:***
+  - Find Rick!
 
-Find Rick!
-
-
-***Found Rick!***
-
-Gotta love the Pickle Rick Reference!
+***Flag***
+  - Gotta love the Pickle Rick Reference! This one was a pain in the ass, he was in a cave that had multiple paths once inside and they would spit you back to the entrance.
 
 ![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Rick.png?token=AlLywAGUD_V6nex8zgSanb05yn1SZuocks5b2gVhwA%3D%3D)
+
+
+### Adventure Kitty
+
+***Points: 100***
+
+***Description***
+
+There's a kitty with a message for you!
+
+***Flag***
+
+This one was pretty easy, and obvious once you find it.
+
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Adventure%20Kitty.png?token=AlLywKiqUTR_aGg-GqHPrTQD9sgRJoLnks5b2garwA%3D%3D)
