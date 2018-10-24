@@ -1,6 +1,5 @@
 ### Points: 500
-
-- I didn't complete this challenge during the CTF. 
+  - I didn't complete this challenge during the CTF. 
 
 ### Description:
 
@@ -10,6 +9,6 @@ After initial access onto Ted’s PC, the attacker migrated into a process. At w
 
 Flag will be in the format HH:MM:SS
 
-### File: 
+### File:
 
 EN2RUuuFbXP6FlZTXBRg3TiCdPZPr8K9.zip

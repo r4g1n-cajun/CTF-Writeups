@@ -1,6 +1,5 @@
 ### Points: 300
-
-- I didn't complete this challenge during the CTF. 
+  - I didn't complete this challenge during the CTF.
 
 ### Description:
 
@@ -10,6 +9,6 @@ Enter the PIDs of the bad processes, comma-separated with no spaces, in ascendin
 
 Example: 641,1928,1944,...
 
-### File: 
+### File:
 
 dump.zip
