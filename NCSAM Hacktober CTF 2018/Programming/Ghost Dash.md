@@ -5,8 +5,6 @@ Prove him wrong by getting the trick-or-treater past 100 ghosts.
 
 ### Game:
 
-[Game](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM Hacktober CTF 2018/Programming/Files/unbreakable/unbreakable_game.py?token=AlLywCC5WJz20W7gZX3tfJqKzgK5ZyHMks5b2hVxwA%3D%3D)
-
 ```python
 '''
 Program Title:  UNBREAKABLE GAME
