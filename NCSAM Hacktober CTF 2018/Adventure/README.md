@@ -20,7 +20,7 @@ But that wouldn't be very fun and a break from beating my brain was nice so I pl
 It took a while to figure out where everything was without using the `db.json` info.
 
 
-#### Wubba Lubba
+### Wubba Lubba
 
 ***Points: 100***
 
