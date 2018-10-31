@@ -12,11 +12,11 @@ Some of the challenge categories I have had no experience in so it was a first f
 ## Invite Page
 This was the page posted as the CTF. You wen't given the link to the registration page, so there was a challenge before even signing up.
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/Initial%20Page.png?token=AlLywJK8GpRetMwoeY-N1zgBZxsvQrFAks5b2MmCwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/Initial%20Page.png)
 
 Scanning the QR code takes you to another page:
 
-![Alt Text](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/secret_page.gif?token=AlLywOp93fNwCUO-5qW0bL0TvTFKevGhks5b2MxKwA%3D%3D)
+![Alt Text](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/secret_page.gif)
 
 It's pretty obvious that the string around the QR code is base64 encoded, decoding it gives us the CTF main page:
 ```
@@ -27,7 +27,7 @@ hacktober.org
 
 Now you are able to register for the CTF and start the challenges.
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/CTF%20Page.png?token=AlLywBxkY3UD7LJCP91mjeCrxzJAOjXAks5b2M9UwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/CTF%20Page.png)
 
 ## About Hacktober CTF:
 
@@ -72,4 +72,4 @@ Gh0stf4c3 is a hacktivist group known for causing mischief and mayhem. They have
 
 ## Top 25:
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/Top_25.png?token=AlLywH1j6S9HIbtIYHIZIOYrGpXbnwQ2ks5b2NAVwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Files%20for%20README/Top_25.png)

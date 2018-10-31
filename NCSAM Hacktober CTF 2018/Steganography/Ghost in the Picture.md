@@ -10,6 +10,4 @@ https://www.atlasobscura.com/lists/abandoned-psychiatric-hospitals
 
 ### Image:
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Steganography/Files/scary.jpg?token=AlLywODm0350RIDxcA52fTGqu-4HxsmPks5b2L2UwA%3D%3D)
-
-[Download Image](https://github.com/r4g1n-cajun/CTF-Writeups/raw/master/NCSAM%20Hacktober%20CTF%202018/Steganography/Files/scary.jpg)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Steganography/Files/scary.jpg)

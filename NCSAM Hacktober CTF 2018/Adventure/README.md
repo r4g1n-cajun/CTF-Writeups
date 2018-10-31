@@ -8,14 +8,14 @@ Opening developer tools when launching the game you see a GET request for the `d
 
 But that wouldn't be very fun and a break from beating my brain was nice so I played through. But that wouldn't be very fun and a break from beating my brain was nice so I played through.
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/devtools_rick.png?token=AlLywC2FZOKQjWS3ZUeP7eWlwwt4-voEks5b2gNPwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/devtools_rick.png)
 
 
 ### Playing the Game
 
 ***Starting Point***
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Start.png?token=AlLywPCkq6YZJh3cxpP4DwXYwlnTF003ks5b2gSEwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Start.png)
 
 
 ### Wubba Lubba
@@ -29,7 +29,7 @@ But that wouldn't be very fun and a break from beating my brain was nice so I pl
   - ```flag-NoPicklesHere```
   - Gotta love the Pickle Rick Reference! This one was a pain in the ass, he was in a cave that had multiple paths once inside and they would spit you back to the entrance.
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Rick.png?token=AlLywAGUD_V6nex8zgSanb05yn1SZuocks5b2gVhwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Rick.png)
 
 
 ### Adventure Kitty
@@ -43,7 +43,7 @@ But that wouldn't be very fun and a break from beating my brain was nice so I pl
   - ```flag-NyanNyanNyanBOO```
   - This one was pretty easy, and obvious once you find it.
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Adventure%20Kitty.png?token=AlLywKiqUTR_aGg-GqHPrTQD9sgRJoLnks5b2garwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/Adventure%20Kitty.png)
 
 
 
@@ -60,7 +60,7 @@ But that wouldn't be very fun and a break from beating my brain was nice so I pl
   - ```flag-GollumWasTheHero```
   - This one actually took a couple times since I was expecting some crazy action to obtain the sword but that wasn't the case. I got it a few times but didn't pay close attention when I picket it up....
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/sword.png?token=AlLywPGPVctaDrzqbQ2X3FQC5BlYwVV3ks5b2lLmwA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/sword.png)
 
 
 ### Slay the Evil
@@ -76,4 +76,4 @@ But that wouldn't be very fun and a break from beating my brain was nice so I pl
   - ```flag-BlingBlingBaby```
   - For this one all you had to do was follow the 'path' to the top of the map and you arrive at a lava surrounded temple. Once inside you had to battle and kill the 'Evil Boss' character and a chest appeared with Golden Armor in it. Once you obtain the armor you receive the last flag.
 
-![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/evil.png?token=AlLywDaul61reNoB3tjeuNR2qrOfisXmks5b2lL7wA%3D%3D)
+![Image](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Adventure/Screenshots/evil.png)

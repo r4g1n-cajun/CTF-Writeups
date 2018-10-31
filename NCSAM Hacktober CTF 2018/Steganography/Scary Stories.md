@@ -25,4 +25,4 @@ I don’t know about you, but this Halloween, I won’t be opening the door for 
 
 ### File:
 
-[fldhRSuIoxUnxbf9XjpXZR6gg5wcgODc.txt](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Steganography/Files/fldhRSuIoxUnxbf9XjpXZR6gg5wcgODc.txt?token=AlLywOnZelJILSTp65cUZQ3JkeOETDDJks5b2L-MwA%3D%3D)
+[fldhRSuIoxUnxbf9XjpXZR6gg5wcgODc.txt](https://raw.githubusercontent.com/r4g1n-cajun/CTF-Writeups/master/NCSAM%20Hacktober%20CTF%202018/Steganography/Files/fldhRSuIoxUnxbf9XjpXZR6gg5wcgODc.txt)
