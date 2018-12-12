@@ -16,7 +16,17 @@ If you are working on these challenges and are interested in applying for a posi
 
 ------------------
 
-After finding the first 'flag' it takes you to the scoreboard to track your progress.
+Looking at the page source you see a hidden href do a debug page
+
+```html
+<!-- IMPORTANT! DONT! FORGET -->
+<!-- TODO: remove this link before deploying to production  -->
+<a hidden href="/debug"> debug </a>
+<!-- IMPORTANT! DONT! FORGET -->
+</div>
+```
+
+Going to `https://canyouhack.us/debug` redirects you to the scoreboard with the first two challenges.
 
   - https://canyouhack.us/h4ckm3
 
@@ -26,7 +36,7 @@ Your progress will be stored in your session cookie (which is also printed below
 
 This page will contain links to all of the challenges you have completed and the next challenge(s) you are working on.
 
-***progress cookie: JzRZZeAt8zwronnPRDrkPZKiRngCdiMwdJvTG4WCJeOAt7mBOjC5ebKPrxQuvOJivDead32bUbkLgwBYGlZ3wb/Tr0FpBv74xI2bYvVfk00=***
+progress cookie: ***00xK8ol3BBn9jQjW7FqBi/PY8jNFHPXE7OYpAe33H8GV+/kqzljY4PsexAQNB82GGo+pkHf65DwsUbTIJm/pnreQoL2IbZ1v3r3J3lytekU=***
 
 Note: This cookie may be cleared when you close your browser depending on your settings. Additionally if you switch to a different browser you will need to move this cookie value over.
 
