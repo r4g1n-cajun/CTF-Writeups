@@ -43,7 +43,5 @@ Note: This cookie may be cleared when you close your browser depending on your s
 Solved challenge(s):
 
 Next challenge(s):
-```
-4e938b718a1501e5ae5471f1534376dc
-434aada6b26ba5353569f0d181267ff2
-```
+* 4e938b718a1501e5ae5471f1534376dc
+* 434aada6b26ba5353569f0d181267ff2
