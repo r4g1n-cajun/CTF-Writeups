@@ -36,7 +36,7 @@ Your progress will be stored in your session cookie (which is also printed below
 
 This page will contain links to all of the challenges you have completed and the next challenge(s) you are working on.
 
-progress cookie: ***00xK8ol3BBn9jQjW7FqBi/PY8jNFHPXE7OYpAe33H8GV+/kqzljY4PsexAQNB82GGo+pkHf65DwsUbTIJm/pnreQoL2IbZ1v3r3J3lytekU=***
+progress cookie: ***AyBV9XkeRluqeFJ7c+fliTWWLuWl8lTLw7q2LGrvE5GX00McAPGp7q0VqOJODPzk95D/dgQnLGZakg6OOewxk3M3eeVqt4MC25sMmJXOUQM=***
 
 Note: This cookie may be cleared when you close your browser depending on your settings. Additionally if you switch to a different browser you will need to move this cookie value over.
 
