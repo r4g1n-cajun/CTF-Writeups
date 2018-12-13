@@ -3,7 +3,7 @@
 
 ## Session Token Generator
 
-Generating the tokens spits out these strings, but after looking ovedr the, there is a visible pattern where every third character is the same across all the tokens.
+Generating the tokens spits out these strings, but after looking over the, there is a visible pattern where every third character is the same across all the tokens.
 ```
 f89c60d66862903a33465675c78f66566928364214432e43283784a05d87119966f08451252006277392f04e34831522
 f  c  d  8  9  a  4  6  c  f  5  9  3  2  4  e  2  7  a  d  1  9  f  4  2  0  2  3  f  e  8  5
@@ -46,4 +46,4 @@ fcd89a46cf59324e27ad19f42023fe85
 fcd89a46cf59324e27ad19f42023fe85
 ```
 
-And that is in-fact the case as all 100 tokens convert to the same 32 character string 100 times. 
+And that is in-fact the case as all 100 tokens convert to the same 32 character string 100 times.
